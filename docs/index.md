@@ -2,7 +2,7 @@
 
 Git est un système de contrôle de versions décentralisé. C'est un [logiciel libre](https://fr.wikipedia.org/wiki/Logiciel_libre) créé par Linus Torvalds, auteur du noyau Linux, et distribué selon les termes de la licence publique générale GNU version 2. Il s’agit du logiciel de gestion de versions le plus populaire.
 
-![](gitlogo.png)
+![](img/gitlogo.png)
 
 ## Particularités techniques
 
