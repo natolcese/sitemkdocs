@@ -1,0 +1,13 @@
+## Preambule
+site_name: site_mkdocs
+site_description: "un site sur quelque chose"
+site_author: Nathalie_Olcese
+
+theme:
+   name: readthedocs # mkdocs
+
+## Architecture
+nav:
+   - Accueil: index.md
+
+## Extensions
